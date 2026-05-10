@@ -1,4 +1,4 @@
-# WormGPT - Unleashed and Uncensored
+npm install# WormGPT - Unleashed and Uncensored
 
 WormGPT is a desktop chat client built with Electron + React and powered by the Groq API.
 
